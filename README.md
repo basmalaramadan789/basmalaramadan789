@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Basmala Ramadan</h1>
 <h3 align="center">A passionate .NET Developer from Egypt</h3>
 
-- 🔭 I’m currently working on *Servey Basket(Web Api) Project*
+- 👯 4th year at Helwan University, specializing in basic programming with a strong background in *.NET development.*
 
 - 🌱 I’m currently learning *FrontEnd (Angular)*
-
-- 👯 4th year at Helwan University, specializing in basic programming with a strong background in *.NET development.*
 
 - 🤝 I’m Currently Open for: *An Intern OR New Job Opportunity*
 
